@@ -60,6 +60,16 @@ I love to learn and build something new, productive, innovative and creative.
 
 <h2>Github Stats:</h2>
 
+[![](https://github-readme-stats.vercel.app/api?username=Xavier21-Riv&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Xavier21-Riv)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Xavier21-Riv&theme=material-palenight)](https://github.com/Xavier21-Riv)
+</div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 
 
 
