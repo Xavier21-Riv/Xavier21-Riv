@@ -65,8 +65,8 @@ I love to learn and build something new, productive, innovative and creative.
 </div>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Xavier21-Riv/Xavier21-Riv/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake" />
 </p>
 
 
